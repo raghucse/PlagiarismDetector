@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+	font-weight: bold;
+	padding-top: 3%;
+	text-align: center;
+}
+
+.indexBanner {
+	margin-top: 3%;
+	padding-right: 0;
+  padding-left: 0;
+}
+
+.clickedButton {
+	width: 200px;
+	background-color: lightgray;
+	color: #282e32;
+  border: 1px solid lightgray;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 8px 14px;
+  text-decoration: none;	
+}
+
+.unclickedButton {
+	width: 200px;
+	background-color: #464c54;
+  border: 1px solid #464c54;
+	color: #ffebb5;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 15px;
+  font-weight: bold;
+  padding: 8px 14px;
+  text-decoration: none;
+}
+
+.form {
+	margin-top: 1%;
+	width: 400px;
+}
+
+#email, #pwd, #crfmpwd, #name {
+	width: 120%;
+  font-size: 100%; 
+  background-color: #f2f2f2; 
+	border: 1px solid #cccccc;
+	padding: 3%;
+	border-radius: 5px;
+}
+
+#indexcontain {
+	background-color: lightgray;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.5%;
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+
+.subbtn {
+
+	width: 130%;
+}
+
+#reg_slogan {
+	font-size: 130%;
+	font-weight: bold;
+	color: #464c54;
+}
+
+.reg_slogan_col {
+	margin-bottom: 3%;
+}
+
+.index_label_text {
+	font-size: 105%;
+}
+
+.index_label {
+	width: 25%;
+	padding-top: 1.5%;
+}
+
+.index_star {
+	width: 5%;
+	padding-top: 1.5%;
+}
+
+.index_label_role {
+	margin-left: 10%;
+	margin-bottom: 3%;
+	padding-left: 5%;
+	padding-top: 3%;
+}
+
+.index_label_text_star {
+	margin-top: 2%;
+}
